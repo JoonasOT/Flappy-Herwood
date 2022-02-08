@@ -1,6 +1,6 @@
 """
 COMP.CS.100 Ohjelmointi 1 / Programming 1
-Student Id: 150322081
+
 Name:       Joonas Tuominen
 Email:      joonas.2.tuominen@tuni.fi
 
