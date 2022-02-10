@@ -16,5 +16,9 @@ To play, just run flappy.py in your favourite IDE or straight from the command l
 ```
 > python flappy.py
 ```
+or
+```
+> python3 flappy.py
+```
 
 More detailed game instructions can be found from the beginning of flappy.py.
