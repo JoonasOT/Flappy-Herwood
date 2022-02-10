@@ -1,3 +1,6 @@
+# Player data file
+player_data.udat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
