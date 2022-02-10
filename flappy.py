@@ -47,7 +47,8 @@ import hashlib          # for password protection
 
 
 # Just some files we are gonna depend on:
-global_files = {"player": ["bird_flap.png", "bird_norm.png"], "pipes": ["mikontalo.png"], "data": ["player_data.udat"]}
+global_files = {"player": ["res/bird_flap.png", "res/bird_norm.png"], "pipes": ["res/mikontalo.png"],
+                "data": ["data/player_data.udat"]}
 
 
 class Vertex2D:
